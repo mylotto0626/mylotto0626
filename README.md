@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 안녕하세요! 방문해 주셔서 반갑습니다. </h1>
 
 <p>제 깃허브에 오신 것을 환영합니다! <br/> 
-저는 <img src="https://github.com/user-attachments/assets/793a3316-4c34-48d6-a3df-f6c00200e713" width="13"/> <b>대한민국</b>에 거주하며, <b>AI & 데이터 엔지니어</b>를 목표로 딥러닝을 깊이 있게 공부하고 있는 예비 개발자 김태주입니다. </p>
+저는 <img src="https://github.com/user-attachments/assets/793a3316-4c34-48d6-a3df-f6c00200e713" width="13"/> <b>대한민국</b>에 거주하며, <b>AI & 데이터 엔지니어</b>를 목표로 딥러닝을 깊이 있게 공부하고 있는 데이터 엔지니어가 되고 싶은 김태주입니다. </p>
 
 
 
