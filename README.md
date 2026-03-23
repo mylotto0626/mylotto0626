@@ -52,13 +52,13 @@
 
 <h3>Where to find me</h3>
 <p>
-  <a href="https://github.com/daeyoung01" target="_blank">
+  <a href="https://github.com/mylotto0626" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
   </a>
-  <a href="mailto:dbeodud147@gmail.com">
+  <a href="gupy1998@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a> 
-  <a href="mailto:dbeodud147@naver.com">
+  <a href="lumen1007@naver.com">
     <img alt="Naver" src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white" />
   </a>
 </p>
