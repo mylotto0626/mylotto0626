@@ -62,3 +62,19 @@
     <img alt="Naver" src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white" />
   </a>
 </p>
+
+<h3>Projects</h3>
+<ul>
+    <li>
+      <a href = "https://github.com/mylotto0626/dacon_filght_delay" target ="blank">월간 데이콘 항공편 지연 예측 AI 경진대회</a>
+      : dacon_flight_delay
+    </li>
+     <li>
+      <a href = "https://github.com/mylotto0626/distribution-anomaly-report" target ="blank">유통 판매 이상 탐지 시스템</a>
+      : distribution-anomaly-report
+    </li>
+     <li>
+      <a href = "https://github.com/mylotto0626/trade-co-movement-analysis" target ="blank">국민대 AI 빅데이터 분석 경진대회</a>
+      : trade-co-movement-analysis
+    </li>
+</ul>
